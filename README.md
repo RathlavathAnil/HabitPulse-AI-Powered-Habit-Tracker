@@ -83,12 +83,6 @@ habitpulse/
 ├── habit_manager.py        # Habit CRUD operations and analytics
 ├── ai_coach.py             # Ollama integration and prompt construction
 ├── storage.py              # JSON read/write abstraction
-├── utils.py                # Date helpers and formatting utilities
-├── data/
-│   └── habits.json         # Local persistent storage (auto-created)
-├── tests/
-│   ├── test_habit_manager.py
-│   └── test_storage.py
 ├── requirements.txt
 ├── .gitignore
 └── README.md
